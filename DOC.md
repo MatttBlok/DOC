@@ -15,6 +15,7 @@ https://github.com/davidvenin/parcel-starter
 # Structure & Mise en page : 
 Structure & Mise en page : 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 http://flexboxgrid.com/
 # CSS 
 Normalize :
