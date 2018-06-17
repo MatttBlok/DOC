@@ -1,9 +1,13 @@
 # Dov Dev : 
-Link : 
+Links : 
 https://stackoverflow.com/
+
 https://www.w3schools.com/
+
 https://css-tricks.com/
+
 http://tutsplus.com/
+
 https://www.youtube.com/user/learncodeacademy
 
 # Starter 
